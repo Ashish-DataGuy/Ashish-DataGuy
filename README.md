@@ -1,4 +1,4 @@
-# Hi, Ashish 👋
+# Hi, I'm Ashish 👋
 **Data Engineer | AI Enthusiast | Lifelong Learner**
 
 I'm a Data Engineer with a passion for data analytics and machine learning. I have experience working with cloud platforms like AWS, Azure, and GCP, 
